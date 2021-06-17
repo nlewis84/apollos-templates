@@ -2,7 +2,7 @@
 
 This guide will describe how to set up your Heroku server with a Fastly CDN layer
 
-_**NOTE: This will installed the $25/month option. You must already have payment set up on Heroku**_
+_**NOTE: This will install the $25/month option. You must already have payment set up on Heroku**_
 
 Install the addon using the Heroku CLI:
 
