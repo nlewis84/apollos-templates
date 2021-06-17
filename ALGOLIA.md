@@ -19,4 +19,4 @@ ALGOLIASEARCH_API_KEY=<key>
 
 ### Indexing
 
-To manage your scheduled indexing jobs go to the `/admin/queues` endpoint and log in with your `JOBS_USERNAME` and `JOBS_PASSWORD` variables from your environment
+To manage your scheduled indexing jobs go to the `<YourHerokuAppUrl>/admin/queues` endpoint and log in with your `JOBS_USERNAME` and `JOBS_PASSWORD` variables from your environment
