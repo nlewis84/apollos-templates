@@ -51,3 +51,4 @@ Use the App ID it gives you and add this key to your app `.env` file.
 ```
 ONE_SIGNAL_KEY=<key>
 ```
+
